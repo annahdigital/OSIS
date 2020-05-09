@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Lab6.cpp
+D:\University\6_sem\osis\Lab11\Lab6.cpp(99,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\6_sem\osis\Lab11\Lab6.cpp(112,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\University\6_sem\osis\Lab11\Lab6.cpp(174,9): warning C4102: 'start': unreferenced label
+  Lab6.vcxproj -> D:\University\6_sem\osis\Lab11\Debug\Lab6.exe

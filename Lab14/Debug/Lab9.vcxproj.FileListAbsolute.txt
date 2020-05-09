@@ -1,0 +1,4 @@
+D:\Labs\6 sem\Osis\Lab9\Debug\Lab14.exe
+D:\Labs\6 sem\Osis\Lab9\Debug\Lab14.pdb
+D:\Labs\6 sem\Osis\osas\Lab14\Debug\Lab14.exe
+D:\Labs\6 sem\Osis\osas\Lab14\Debug\Lab14.pdb

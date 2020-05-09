@@ -1,0 +1,9 @@
+﻿  WindowsProject1.cpp
+D:\University\.6 sem\osis\Lab6\WindowsProject1\WindowsProject1.cpp(106,35): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+D:\University\.6 sem\osis\Lab6\WindowsProject1\WindowsProject1.cpp(145,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\University\.6 sem\osis\Lab6\WindowsProject1\WindowsProject1.cpp(145,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WindowsProject1.vcxproj -> D:\University\.6 sem\osis\Lab6\WindowsProject1\Release\WindowsProject1.exe

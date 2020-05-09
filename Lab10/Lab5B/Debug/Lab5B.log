@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab5B.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab10.2.cpp
+D:\University\.6 sem\osis\Lab10\Lab5B\Lab10.2.cpp(21,2): warning C4091: 'typedef ': ignored on left of 'WM_DRAW_data' when no variable is declared
+D:\University\.6 sem\osis\Lab10\Lab5B\Lab10.2.cpp(147,3): warning C4065: switch statement contains 'default' but no 'case' labels
+  Lab5B.vcxproj -> D:\University\.6 sem\osis\Lab10\Debug\Lab10part2.exe

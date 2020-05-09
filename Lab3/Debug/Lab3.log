@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\University\6_sem\osis\Lab3\Source.cpp(161,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab3.vcxproj -> D:\University\6_sem\osis\Lab3\Debug\Lab3.exe
